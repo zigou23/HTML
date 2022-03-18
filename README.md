@@ -1,2 +1,2 @@
 # html
-only html page
+single html page
